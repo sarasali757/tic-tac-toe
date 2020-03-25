@@ -1,2 +1,6 @@
 # tic-tac-toe
-tic-tac-toe game , using windforms 
+Simple tic-tac-toe game
+implemented in c# using winForm
+multiplayers application that accept Single player and multiple players using Networking and threading 
+
+
